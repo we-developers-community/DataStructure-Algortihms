@@ -1,5 +1,29 @@
 # DSA Snippets
 
+### Folder Structure & Naming Convention
+
+- Create a folder for your algorithm inside the folder of your preferred language (cpp, python, java,... etc)
+- Please follow camelCase for naming of all your folders and files
+- General Folder Structure
+```
+/root
+  └── <LANGUAGE folder>
+          └──<ALGORITHM folder>
+                    ├── <ALGORITHM.md file>
+                    ├── <ALGORITHM.LANGUAGE file>
+```
+- Example
+```
+/root
+  ├── cpp
+  │    └── bubbleSort
+  │            ├── bubbleSort.md
+  │            ├── bubbleSort.cpp
+  │── python
+  │     └── bubbleSort
+  │            ├── bubbleSort.md
+  │            ├── bubbleSort.py
+```
 ### Contribution Guidelines
 
 We'd love to have your contribution in our project.
