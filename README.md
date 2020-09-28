@@ -9,20 +9,20 @@
 /root
   └── <LANGUAGE folder>
           └──<ALGORITHM folder>
-                    ├── <ALGORITHM.md file>
-                    ├── <ALGORITHM.LANGUAGE file>
+                    ├── README.md (file)
+                    └── <ALGORITHM.LANGUAGE> (file)
 ```
 - Example
 ```
 /root
   ├── cpp
   │    └── bubbleSort
-  │            ├── bubbleSort.md
-  │            ├── bubbleSort.cpp
+  │            ├── README.md
+  │            └── bubbleSort.cpp
   │── python
   │     └── bubbleSort
-  │            ├── bubbleSort.md
-  │            ├── bubbleSort.py
+  │            ├── README.md
+  │            └── bubbleSort.py
 ```
 ### Contribution Guidelines
 
