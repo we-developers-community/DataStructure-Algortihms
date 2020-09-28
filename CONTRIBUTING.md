@@ -133,6 +133,7 @@ Then add a title and description to your pull request that explains your preciou
 - In case you want to submit an improvement to an existing feature or section, we prefer that you create an issue, describing in details your improvement. This will help others to analyze your contribution.
 - If you have anything else in mind, create an issue and please wait for it to be assigned to you. You can then start working on it and create a PR.
 - All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and once found fit, make a PR.
-- If you have no idea what are issues or PRs, please do refer to this link
+- If you have no idea what are issues or PRs, please do refer to this [link](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+- Please don't plagiarise from other websites like GeeksforGeeks, Medium articles or blogs. You can take inspiration or learn from them but don't copy it.
 
 **Make sure your code works before submitting it :D**
