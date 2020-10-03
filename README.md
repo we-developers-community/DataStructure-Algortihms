@@ -1,4 +1,20 @@
-# DSA Snippets
+<p align="center">
+<img src="./images/DSA%20Snippets.svg" width="300px" height="300px" /> <br/>
+
+<a href="https://github.com/we-developers-community/DataStructure-Algortihms/blob/master/LICENSE" target="_blank">
+  <img src="https://img.shields.io/github/license/we-developers-community/DataStructure-Algortihms?style=for-the-badge" />
+  </a> 
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> 
+  <a href="https://github.com/we-developers-community/DataStructure-Algortihms/pulls" target="_blank">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/we-developers-community/DataStructure-Algortihms?style=for-the-badge" />
+  </a> 
+  <a href="https://github.com/we-developers-community/DataStructure-Algortihms/issues" target="_blank">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/we-developers-community/DataStructure-Algortihms?style=for-the-badge" />
+  </a> 
+  <a href="https://github.com/we-developers-community/DataStructure-Algortihms" target="_blank">
+    <img alt="Github All Contributors" src="https://img.shields.io/github/contributors/we-developers-community/DataStructure-Algortihms?style=for-the-badge" />
+  </a>
+</p>
 
 ### Folder Structure & Naming Convention
 
